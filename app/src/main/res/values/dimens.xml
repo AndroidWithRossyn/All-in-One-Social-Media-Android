@@ -1,0 +1,71 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">126dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+
+    <dimen name="titletext">18dp</dimen>
+    <dimen name="socialtext">20dp</dimen>
+    <dimen name="Lagetext">22dp</dimen>
+    <dimen name="ExLagetext">26dp</dimen>
+
+    <dimen name="primeryText">16sp</dimen>
+    <dimen name="secondaryText">14sp</dimen>
+    <dimen name="smallText">12sp</dimen>
+    <dimen name="exsmallText">5sp</dimen>
+
+
+
+
+    <dimen name="default_delete_button_size_width">39dp</dimen>
+    <dimen name="default_delete_button_size_height">27dp</dimen>
+    <dimen name="default_horizontal_spacing">40dp</dimen>
+    <dimen name="default_vertical_spacing">18dp</dimen>
+
+    // text size
+    <dimen name="default_text_size">25sp</dimen>
+    <dimen name="default_button_size">60dp</dimen>
+
+    // dots
+    <dimen name="dot_diameter">12dp</dimen>
+    <dimen name="dot_spacing">12.2dp</dimen>
+    <dimen name="dot_margintop">25dp</dimen>
+
+    //attempts
+    <dimen name="attempts_margintop">15dp</dimen>
+    <dimen name="textsize_attempts">13sp</dimen>
+
+    <dimen name="lockview_margin">10dp</dimen>
+
+    // layout
+    <dimen name="layout_maxwidth">500dp</dimen>
+    <dimen name="layout_padding">10dp</dimen>
+
+    // title
+    <dimen name="textsize_title">20sp</dimen>
+    <dimen name="title_margintop">54dp</dimen>
+    <dimen name="title_marginstart">10dp</dimen>
+    <dimen name="title_marginend">10dp</dimen>
+
+    <dimen name="delete_radius">6dp</dimen>
+
+    // border
+    <dimen name="button_border">0.5dp</dimen>
+    <dimen name="dot_border">1dp</dimen>
+
+    // fingerprint
+    <dimen name="finger_text_marginbottom">22dp</dimen>
+    <dimen name="finger_icon">60dp</dimen>
+    <dimen name="finger_icon_margintop">80dp</dimen>
+    <dimen name="finger_icon_marginbottom">10dp</dimen>
+    <dimen name="textsize_fingerprint">14sp</dimen>
+
+    <dimen name="activity_dialog_title_size">9sp</dimen>
+    <dimen name="activity_dialog_content_size">5sp</dimen>
+    <dimen name="activity_dialog_positive_button_size">6sp</dimen>
+    <dimen name="activity_dialog_negative_button_size">6sp</dimen>
+</resources>

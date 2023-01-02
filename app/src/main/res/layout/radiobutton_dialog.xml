@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="250dp"
+    android:layout_height="250dp"
+    android:layout_margin="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Text Size"
+        android:textColor="@color/colorBlack"
+        android:textSize="@dimen/primeryText"
+        />
+    <RadioGroup
+
+        android:id="@+id/radio_group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin10"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
+
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioBig"
+        android:textSize="@dimen/primeryText"
+        android:text="Large"/>
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioSmall"
+        android:textSize="@dimen/primeryText"
+        android:text="Small"/>
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radiostand"
+        android:textSize="@dimen/primeryText"
+        android:text="Standard"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioexlarge"
+            android:textSize="@dimen/primeryText"
+            android:text="Largest"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/radioexsmall"
+            android:textSize="@dimen/primeryText"
+            android:text="Smallest"/>
+
+    </RadioGroup>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#029488"
+        android:layout_gravity="end|bottom"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="@dimen/margin10"
+        android:id="@+id/btncancle"
+        android:clickable="true"
+        android:textSize="@dimen/primeryText"
+        android:text="Cancle"/>
+</LinearLayout>

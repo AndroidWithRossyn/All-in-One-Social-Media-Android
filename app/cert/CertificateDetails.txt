@@ -1,0 +1,4 @@
+cert name - allinone
+password - 123456
+alias - allinone
+firstname - allinone
